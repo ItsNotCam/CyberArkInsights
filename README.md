@@ -4,7 +4,7 @@ It displays essential information and statistics for an internal account and pas
 
 ## Contribution
 I was given a prompt and some requirements and took the app from **design**, to **architecture**, to **development**, and finally to **deployment**. 
-As a solo developer, I self-managed the entire process, ensuring that each phase was executed properly. This involved creating detailed designs using **Adobe XD**, planning the app's architecture, developing both the frontend and backend, and deploying the final product. The project leveraged a full stack of technologies, including React, Node.js, TypeScript, and Docker, to deliver a fully functional and responsive web application.
+As a solo developer, I self-managed the entire process, ensuring that each phase was executed properly. This involved creating detailed designs using **Adobe XD**, planning the app's architecture, developing both the frontend and backend, and deploying the final product.
 
 ##  Results
 Customers and system administrators using this application save a combined **60 hours / month** or over **720 hours / year** in manual labor.
